@@ -9,3 +9,30 @@
 .muted {
     color: #999999;
 }
+
+html {
+	height: 100%;
+}
+
+body { 
+	height: 100%;
+	margin: 0px; 
+	padding: 0px; 
+}
+
+#description {
+	color: #ffffff;
+	height: 92%;
+	min-height: 600px;
+	background: url("img/lvt241523950p1252796.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#description-text {
+	height: 100%;
+	background:rgba(0,0,0,0.3);
+	padding: 30px;
+}
